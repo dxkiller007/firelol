@@ -1,0 +1,20 @@
+body {
+  background: #E7F232;
+  color: #fff;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
+}
+.main_div{
+	width: 80%;
+	margin: 0 auto;   
+	text-align: center;   
+  
+}
+
+.loggedin_div{
+	width: 80%;
+	margin: 0 auto;  
+	text-align: center;  
+}
